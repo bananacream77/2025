@@ -1,7 +1,9 @@
 ## 2025
-<div style="background-color: #f0f0f0; padding: 20px;">
-  # 민트색
+<div style="background-color: #98FF98; padding: 20px;">
+  # 여기에 배경을 넣을 수 있는 텍스트가 들어갑니다.
+  이 부분은 민트색 배경을 가진 영역이 됩니다.
 </div>
+
 
 **2025년도에 나에게 일어나는 모든 일**
 
