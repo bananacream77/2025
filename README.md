@@ -14,3 +14,19 @@
   <img src="1학기_시간표.jpg" alt="시간표" width="500" />
 </details>
 
+<details>
+  <summary>동아리 </summary>
+  # CCC (Campus Crusade for Christ) <br>
+  ## 활동 : <br>
+  순모임 <br>
+  채플 <br>
+
+  #KPSC (Kookmin Problem Solving Club) <br>
+  ## 활동 : <br>
+  gold challenge <br>
+  체스 AI 강화학습 특강 (KPSC&AIM) <br>
+  국민대학교X중앙대학교 연합 프로그래밍 대회 (예정) <br>
+
+  #KRAFT(예정) <br>
+  
+</details>
