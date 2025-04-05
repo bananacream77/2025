@@ -27,7 +27,7 @@
   #KPSC (Kookmin Problem Solving Club) <br>
   - *KPSC 운영부 차장* <br>
   
- **활동**
+  **활동** 
   - gold challenge <br>
   - 체스 AI 강화학습 특강 (KPSC&AIM) <br>
   - 국민대학교X중앙대학교 연합 프로그래밍 대회 (예정) <br>
