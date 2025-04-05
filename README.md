@@ -7,7 +7,7 @@
   # 학교 : 국민대학교<br>
   # 학과 : 소프트웨어학부<br>
   # 학번 : 20243033 (2학년)<br>
-  백준 계정 : https://solved.ac/profile/rladudrhkd9563
+  - 백준 계정 : https://solved.ac/profile/rladudrhkd9563
 </details>
 
 <details>
