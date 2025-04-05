@@ -35,9 +35,9 @@
   
 </details>
 <details>
-  <summary>관심 목표</summary>
+  <summary>관심 목표</summary> <br>
   
-  1. 자격증
+  1. 자격증 <br>
   - 디지털포렌식 2급 자격증 <br>
   - 운전면허 1종 <br>
   - 네트워크 관리사 2급 <br>
