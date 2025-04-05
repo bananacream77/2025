@@ -20,7 +20,7 @@
   # CCC (Campus Crusade for Christ) <br>
   - *예배 환영부* <br>
   
-  **활동**  
+    **활동**  
   - 순모임 <br>
   - 채플 <br>
 <br>
