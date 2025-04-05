@@ -17,7 +17,7 @@
     - 맛집 탐방 (계정 : @barc_7235) <br>
     - 수학 문제 풀기 (수능특강) <br>
   
-<details>
+</details>
 
   <details>
   <summary>시간표</summary>
