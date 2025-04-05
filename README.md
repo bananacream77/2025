@@ -14,13 +14,14 @@
   <summary>시간표</summary>
   <img src="1학기_시간표.jpg" alt="시간표" width="500" /> <br>
 
-    #전공 <br>
+    전공
   - 자료구조 (Data Structure) <br>
   - C++ 프로그래밍 (C++ Programming) <br>
   - 데이터베이스 (DataBase) <br>
   - 수치해석 (Numerical Analysis) <br>
   - 머신러닝기초 (Machine Learning Basic) <br>
-    #비전공 <br>
+
+    비전공 
   - 자기주도스포츠 (핵심교양 : 창의) <br>
   
 </details>
