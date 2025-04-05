@@ -43,7 +43,7 @@
   - SQLD 자격증 <br>
   - 정보처리기능사 <br>
   
-  2. 가고 싶은 직종
+  2. 가고 싶은 직종 <br>
   - 현대 Security Engineering <br>
   - 모의해킹 & 해커 <br>
   
