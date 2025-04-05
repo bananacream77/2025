@@ -36,6 +36,7 @@
 </details>
 <details>
   <summary>관심 목표</summary>
+  
   1. 자격증 <br>
   - 디지털포렌식 2급 자격증 <br>
   - 운전면허 1종 <br>
