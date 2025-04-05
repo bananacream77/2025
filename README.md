@@ -11,6 +11,13 @@
 </details>
 
 <details>
+  <summary>취미</summary>
+    - 야구 관람 (KIA) <br>
+    - 음악 듣기 (듣는 건 시간에 따라 다름) <br>
+    - 맛집 탐방 (계정 : @barc_7235) <br>
+    - 수학 문제 풀기 (수능특강) <br>
+  
+<details>
   <summary>시간표</summary>
   <img src="1학기_시간표.jpg" alt="시간표" width="500" /> <br>
 
