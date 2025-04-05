@@ -29,7 +29,7 @@
   gold challenge <br>
   체스 AI 강화학습 특강 (KPSC&AIM) <br>
   국민대학교X중앙대학교 연합 프로그래밍 대회 (예정) <br>
-  국숭전 개최(예정) <br>
+  국숭전 개최 (예정) <br>
   <br>
   #KRAFT(예정) <br>
   
