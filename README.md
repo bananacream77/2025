@@ -34,8 +34,8 @@
 </details>
 
 <details>
-  <summary>1학기 시간표</summary>
-  <img src="1학기_시간표.jpg" alt="시간표" width="500" /> <br>
+  <summary>2학기 시간표</summary>
+  <img src="2학기_시간표.jpg" alt="시간표" width="500" /> <br>
 
     수업 목록
   - 객체지향프로그래밍 <br>
