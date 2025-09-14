@@ -38,10 +38,10 @@
   <img src="2학기_시간표.jpg" alt="시간표" width="500" /> <br>
 
     수업 목록
-  - 객체지향프로그래밍 <br>
-  - 클라우드컴퓨팅 <br>
-  - 컴퓨터구조 <br>
-  - 딥러닝기초 <br>
+  - 객체지향프로그래밍 (Object-Oriented Programming) <br>
+  - 클라우드컴퓨팅 (Cloud Computing) <br>
+  - 컴퓨터구조 (Computer Architecture) <br>
+  - 딥러닝기초 (Deep Learning Basic) <br>
   - 공연예술읽기(연극) (핵심교양 : 인문 II) <br>
   - 글로벌기업가정신과창업 (핵심교양 : 글로벌) <br> 
   - 기업가정신 (자유교양) <br>
