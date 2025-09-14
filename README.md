@@ -20,7 +20,7 @@
 </details>
 
   <details>
-  <summary>시간표</summary>
+  <summary>1학기 시간표</summary>
   <img src="1학기_시간표.jpg" alt="시간표" width="500" /> <br>
 
     수업 목록
@@ -30,6 +30,21 @@
   - 수치해석 (Numerical Analysis) <br>
   - 머신러닝기초 (Machine Learning Basic) <br> 
   - 자기주도스포츠 (핵심교양 : 창의) <br>
+  
+</details>
+
+<details>
+  <summary>1학기 시간표</summary>
+  <img src="1학기_시간표.jpg" alt="시간표" width="500" /> <br>
+
+    수업 목록
+  - 객체지향프로그래밍 <br>
+  - 클라우드컴퓨팅 <br>
+  - 컴퓨터구조 <br>
+  - 딥러닝기초 <br>
+  - 공연예술읽기(연극) (핵심교양 : 인문 II) <br>
+  - 글로벌기업가정신과창업 (핵심교양 : 글로벌) <br> 
+  - 기업가정신 (자유교양) <br>
   
 </details>
 
@@ -49,9 +64,12 @@
   - gold challenge <br>
   - 체스 AI 강화학습 특강 (KPSC&AIM) <br>
   - 국민대학교X중앙대학교 연합 프로그래밍 대회 (예정) <br>
-  - 국숭전 개최 (예정) <br>
+
   <br>
-  #KRAFT(예정) <br>
+  #D-α (해킹 동아리) <br>
+  
+    활동(activity) 
+  - Dreamhack 문제 풀기 <br>
   
 </details>
 <details>
